@@ -89,6 +89,8 @@ This repository gives the outline. The courses teach each round in full.
 
 Related free guides: [Software Engineer Levels](https://github.com/design-gurus/software-engineer-levels/blob/main/companies/microsoft.md), [Grokking System Design](https://github.com/design-gurus/grokking-system-design/blob/main/companies/microsoft.md), [Grokking Coding Interview](https://github.com/design-gurus/grokking-coding-interview), and [Staff Engineer Interview](https://github.com/design-gurus/staff-engineer-interview).
 
+For the system design round, see [Grokking System Design](https://github.com/design-gurus/grokking-system-design), the free companion guide with 30 patterns, 59 question walkthroughs, and 35 cheat sheets.
+
 ## Contributing
 
 Corrections, new questions, and reports of how a Microsoft loop was run are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
